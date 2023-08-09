@@ -1,5 +1,3 @@
-# desafio-ciclo-base
-
 Desafio 1 - Resolução
 
 Link do site disponibilizado: https://desafio1anacarollina.netlify.app/
