@@ -1,10 +1,6 @@
 # desafio-ciclo-base
-Este é o projeto de desenvolvimento do desafio do ciclo base da Formação em Tecnologia da Escol DNC.
 
-Projeto de landing page de uma empresa de arquitetura, realizado após uma semana de aprendizado.
+Desafio 1 - Resolução
 
-Tenologias Utilizadas:
-HTML
-CSS
-
-Acesse o projeto em https://desafio1anacarollina.netlify.app/
+Link do site disponibilizado: https://desafio1anacarollina.netlify.app/
+Link da planilha de registro de informações: https://docs.google.com/spreadsheets/d/11pXp-IjBEaolQ1xs_37rpXNvFmnpP0EYv2zD3ozsCAA/edit?usp=sharing
